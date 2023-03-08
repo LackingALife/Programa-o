@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678216106 source:/home/mint/Documents/lab3prob3try2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

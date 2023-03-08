@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1677783577 source:/home/public/Documents/g/lab3prob1/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1677947108 source:/home/mint/Documents/lab3prob1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

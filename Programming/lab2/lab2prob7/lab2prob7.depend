@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1677675238 source:/home/mint/Documents/lab2prob7/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1677778113 source:/home/public/Downloads/programming/lab2prob7/main.c
+	<stdio.h>
+	<stdlib.h>
+

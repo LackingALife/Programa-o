@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677609685 source:/home/mint/Documents/lab2prob2/main.c
+	<stdio.h>
+	<stdlib.h>
+
